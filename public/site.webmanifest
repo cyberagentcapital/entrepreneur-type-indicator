@@ -1,0 +1,11 @@
+{
+  "name": "起業家タイプ診断",
+  "short_name": "起業家タイプ診断",
+  "description": "どんな起業が向いているか診断しよう。",
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#ffffff",
+  "orientation": "portrait-primary"
+}
